@@ -1,6 +1,6 @@
-using StochasticWeatherGenerator
+using PeriodicAutoRegressive
 using Test
 
-@testset "StochasticWeatherGenerator.jl" begin
+@testset "PeriodicAutoRegressive.jl" begin
     # Write your tests here.
 end

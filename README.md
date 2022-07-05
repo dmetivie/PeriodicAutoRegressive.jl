@@ -1,1 +1,4 @@
-# StochasticWeatherGenerator
+# PeriodicAutoRegressive
+
+In construction.
+
